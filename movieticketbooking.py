@@ -227,6 +227,9 @@ f_amount=0
 #username
 name=input("Enter your name: ")
 
+#Mobile number
+m_num=input("Enter your mobile number: ")
+
 #price menu
 print("Regular=500")
 print("VIP=1000")
